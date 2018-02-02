@@ -1,0 +1,28 @@
+{
+  "name": "connect-four-client",
+  "version": "1.0.0",
+  "description": "Play connect four with your friends or enemies",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junkert/connect-four.git"
+  },
+  "keywords": [
+    "game",
+    "test",
+    "connect",
+    "four"
+  ],
+  "author": "Gabriel Hernandez",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/junkert/connect-four/issues"
+  },
+  "homepage": "https://github.com/junkert/connect-four#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
