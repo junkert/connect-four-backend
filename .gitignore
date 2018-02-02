@@ -103,3 +103,5 @@ ENV/
 # IntelliJ stuff
 main_app/.idea
 main_app/*.iml
+
+node_modules/
