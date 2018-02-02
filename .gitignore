@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# IntelliJ stuff
+main_app/.idea
+main_app/*.iml
